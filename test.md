@@ -1,8 +1,14 @@
-# H1
+# UPDATES
 
-## H2
+## New Updates Coming Soon
 
-### H3
+### First Goal
+
+- Removes Bugs
+
+### Second Goal
+
+- Survives Browser Refresh and Closings
 
 #### H4
 
